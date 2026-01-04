@@ -1,4 +1,7 @@
-![Kavina Peters](assets/profilephoto.png)
+<p align="center">
+  <img src="(assets/profilephoto.png" alt="Kavina Peters" width="200">
+</p>
+
 # Research 
 ## [Rural Roads and Adaptation to Climate Shocks (October 2025)](https://github.com/ktpeters/Rural-Roads-)
 Finding and cleaning historical Indian census data, using geopandas to map to current road networks, and developing a regression discontinuity study of rural roads’ impact on adaptation to climate variation.
