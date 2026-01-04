@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="(assets/profilephoto.png" alt="Kavina Peters" width="200">
-</p>
+![Kavina Peters](assets/profilephoto.png)
 
 # Research 
 ## [Rural Roads and Adaptation to Climate Shocks (October 2025)](https://github.com/ktpeters/Rural-Roads-)
